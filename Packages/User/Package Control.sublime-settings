@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Abacus",
+		"AdvancedNewFile",
+		"Alignment",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"Emmet",
+		"ExpandRegion",
+		"FileHeader",
+		"Git",
+		"HTML5",
+		"JsFormat",
+		"LiveStyle",
+		"Origami",
+		"Package Control",
+		"PlainTasks",
+		"SublimeCodeIntel"
+	]
+}

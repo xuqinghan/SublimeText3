@@ -1,0 +1,873 @@
+{
+	"folder_history":
+	[
+		"/D/wargamedev/project/web_st/server/st_work_server",
+		"/D/wargamedev/project/st_work/server/st_work_server",
+		"/D/wargamedev/project/WarGame_Rule/wargame_rule",
+		"/D/wargamedev/project/chat_room_flask2",
+		"/D/wargamedev/project/web_st/server/chatroom_flask",
+		"/D/wargamedev/project/helicopter/WarGame_Rule/wargame_rule",
+		"/D/wargamedev/project/helicopter/ff_server",
+		"/D/wargamedoc/project/web_st/server/chatroom_flask",
+		"/D/wargamedoc/project/web_st/server/chat_room_flask2"
+	],
+	"last_version": 3114,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 471.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"d",
+						"dumps〔function〕"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"dja",
+						"django"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "p",
+				"selected_items":
+				[
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"packages",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 209.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+				"/D/wargamedev/project/web_st/server/st_work_server/myproject/settings.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/D/wargamedev/project/web_st/server/chatroom_flask/app/static/js/client.txt",
+				"/D/BaiduYunDownload/chat_room_flask2/chat_room_flask2/app/static/js/client.js",
+				"/D/wargamedev/project/helicopter/MAP_EDT_XLS/Map_sqlite.py",
+				"/D/wargamedev/project/helicopter/ff_server/game.py",
+				"/D/wargamedev/project/helicopter/WarGame_Rule/wargame_rule/__init__.py",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/style.css",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/client.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/main/routes.py",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/my_recorder.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/my_recordmp3.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/templates/index_django.html",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/userlist.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/main/events.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/client_get.js",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/templates/test.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/templates/index.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/routes.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/chat.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/__init__.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/events.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/sdaf.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/client.js",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/templates/index_django.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/__init__.py",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/views.py",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/urls.py",
+				"/D/wargamedoc/project/web_st/server/myproject/myproject/urls.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/Python.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/Python.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/D/wargamedoc/project/web_st/server/myproject/cmd.txt",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/Administrator/scr/asd.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/forms.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/socketio/socket.io-client/History.md",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/socketio/socket.io/Readme.md"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stringify",
+					"msgObj",
+					"CHAT",
+					",\n",
+					"		\n",
+					"io",
+					"socket",
+					"init",
+					"username",
+					"create_test_game",
+					"reload",
+					"webkitURL",
+					"URL",
+					"webk",
+					"web"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1023.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"d",
+						"dumps〔function〕"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"l",
+						"loads〔function〕"
+					],
+					[
+						"dja",
+						"django"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\nfrom __future__ import absolute_import, unicode_literals\nimport os\n\nfrom django import VERSION as DJANGO_VERSION\nfrom django.utils.translation import ugettext_lazy as _\n\n\n######################\n# MEZZANINE SETTINGS #\n######################\n\n# The following settings are already defined with default values in\n# the ``defaults.py`` module within each of Mezzanine's apps, but are\n# common enough to be put here, commented out, for conveniently\n# overriding. Please consult the settings documentation for a full list\n# of settings Mezzanine implements:\n# http://mezzanine.jupo.org/docs/configuration.html#default-settings\n\n# Controls the ordering and grouping of the admin menu.\n#\n# ADMIN_MENU_ORDER = (\n#     (\"Content\", (\"pages.Page\", \"blog.BlogPost\",\n#        \"generic.ThreadedComment\", (_(\"Media Library\"), \"media-library\"),)),\n#     (\"Site\", (\"sites.Site\", \"redirects.Redirect\", \"conf.Setting\")),\n#     (\"Users\", (\"auth.User\", \"auth.Group\",)),\n# )\n\n# A three item sequence, each containing a sequence of template tags\n# used to render the admin dashboard.\n#\n# DASHBOARD_TAGS = (\n#     (\"blog_tags.quick_blog\", \"mezzanine_tags.app_list\"),\n#     (\"comment_tags.recent_comments\",),\n#     (\"mezzanine_tags.recent_actions\",),\n# )\n\n# A sequence of templates used by the ``page_menu`` template tag. Each\n# item in the sequence is a three item sequence, containing a unique ID\n# for the template, a label for the template, and the template path.\n# These templates are then available for selection when editing which\n# menus a page should appear in. Note that if a menu template is used\n# that doesn't appear in this setting, all pages will appear in it.\n\n# PAGE_MENU_TEMPLATES = (\n#     (1, _(\"Top navigation bar\"), \"pages/menus/dropdown.html\"),\n#     (2, _(\"Left-hand tree\"), \"pages/menus/tree.html\"),\n#     (3, _(\"Footer\"), \"pages/menus/footer.html\"),\n# )\n\n# A sequence of fields that will be injected into Mezzanine's (or any\n# library's) models. Each item in the sequence is a four item sequence.\n# The first two items are the dotted path to the model and its field\n# name to be added, and the dotted path to the field class to use for\n# the field. The third and fourth items are a sequence of positional\n# args and a dictionary of keyword args, to use when creating the\n# field instance. When specifying the field class, the path\n# ``django.models.db.`` can be omitted for regular Django model fields.\n#\n# EXTRA_MODEL_FIELDS = (\n#     (\n#         # Dotted path to field.\n#         \"mezzanine.blog.models.BlogPost.image\",\n#         # Dotted path to field class.\n#         \"somelib.fields.ImageField\",\n#         # Positional args for field class.\n#         (_(\"Image\"),),\n#         # Keyword args for field class.\n#         {\"blank\": True, \"upload_to\": \"blog\"},\n#     ),\n#     # Example of adding a field to *all* of Mezzanine's content types:\n#     (\n#         \"mezzanine.pages.models.Page.another_field\",\n#         \"IntegerField\", # 'django.db.models.' is implied if path is omitted.\n#         (_(\"Another name\"),),\n#         {\"blank\": True, \"default\": 1},\n#     ),\n# )\n\n# Setting to turn on featured images for blog posts. Defaults to False.\n#\n# BLOG_USE_FEATURED_IMAGE = True\n\n# If True, the django-modeltranslation will be added to the\n# INSTALLED_APPS setting.\nUSE_MODELTRANSLATION = False\n\n\n\n########################\n# MAIN DJANGO SETTINGS #\n########################\n\n# Hosts/domain names that are valid for this site; required if DEBUG is False\n# See https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts\nALLOWED_HOSTS = []\n\n# Local time zone for this installation. Choices can be found here:\n# http://en.wikipedia.org/wiki/List_of_tz_zones_by_name\n# although not all choices may be available on all operating systems.\n# On Unix systems, a value of None will cause Django to use the same\n# timezone as the operating system.\n# If running in a Windows environment this must be set to the same as your\n# system time zone.\n#TIME_ZONE = 'UTC'\nTIME_ZONE = 'Asia/Shanghai'\n\n# If you set this to True, Django will use timezone-aware datetimes.\nUSE_TZ = True\n\n# Language code for this installation. All choices can be found here:\n# http://www.i18nguy.com/unicode/language-identifiers.html\nLANGUAGE_CODE = \"en\"\n\n# Supported languages\nLANGUAGES = (\n    ('zh-cn', _('中文')),\n    ('en', _('English')),\n)\n\n# A boolean that turns on/off debug mode. When set to ``True``, stack traces\n# are displayed for error pages. Should always be set to ``False`` in\n# production. Best set to ``True`` in local_settings.py\nDEBUG = False\n\n# Whether a user's session cookie expires when the Web browser is closed.\nSESSION_EXPIRE_AT_BROWSER_CLOSE = True\n\nSITE_ID = 1\n\n# If you set this to False, Django will make some optimizations so as not\n# to load the internationalization machinery.\nUSE_I18N = False\n\nAUTHENTICATION_BACKENDS = (\"mezzanine.core.auth_backends.MezzanineBackend\",)\n\n# The numeric mode to set newly-uploaded files to. The value should be\n# a mode you'd pass directly to os.chmod.\nFILE_UPLOAD_PERMISSIONS = 0o644\n\n\n#############\n# DATABASES #\n#############\n\nDATABASES = {\n    \"default\": {\n        # Add \"postgresql_psycopg2\", \"mysql\", \"sqlite3\" or \"oracle\".\n        \"ENGINE\": \"django.db.backends.\",\n        # DB name or path to database file if using sqlite3.\n        \"NAME\": \"\",\n        # Not used with sqlite3.\n        \"USER\": \"\",\n        # Not used with sqlite3.\n        \"PASSWORD\": \"\",\n        # Set to empty string for localhost. Not used with sqlite3.\n        \"HOST\": \"\",\n        # Set to empty string for default. Not used with sqlite3.\n        \"PORT\": \"\",\n    }\n}\n\n\n#########\n# PATHS #\n#########\n\n# Full filesystem path to the project.\nPROJECT_APP_PATH = os.path.dirname(os.path.abspath(__file__))\nPROJECT_APP = os.path.basename(PROJECT_APP_PATH)\nPROJECT_ROOT = BASE_DIR = os.path.dirname(PROJECT_APP_PATH)\n\n# Every cache key will get prefixed with this value - here we set it to\n# the name of the directory the project is in to try and use something\n# project specific.\nCACHE_MIDDLEWARE_KEY_PREFIX = PROJECT_APP\n\n# URL prefix for static files.\n# Example: \"http://media.lawrence.com/static/\"\nSTATIC_URL = \"/static/\"\n\n# Absolute path to the directory static files should be collected to.\n# Don't put anything in this directory yourself; store your static files\n# in apps' \"static/\" subdirectories and in STATICFILES_DIRS.\n# Example: \"/home/media/media.lawrence.com/static/\"\nSTATIC_ROOT = os.path.join(PROJECT_ROOT, STATIC_URL.strip(\"/\"))\n\n# URL that handles the media served from MEDIA_ROOT. Make sure to use a\n# trailing slash.\n# Examples: \"http://media.lawrence.com/media/\", \"http://example.com/media/\"\nMEDIA_URL = STATIC_URL + \"media/\"\n\n# Absolute filesystem path to the directory that will hold user-uploaded files.\n# Example: \"/home/media/media.lawrence.com/media/\"\nMEDIA_ROOT = os.path.join(PROJECT_ROOT, *MEDIA_URL.strip(\"/\").split(\"/\"))\n\n# Package/module name to import the root urlpatterns from for the project.\nROOT_URLCONF = \"%s.urls\" % PROJECT_APP\n\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [\n            os.path.join(PROJECT_ROOT, \"templates\")\n        ],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.contrib.auth.context_processors.auth\",\n                \"django.contrib.messages.context_processors.messages\",\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.i18n\",\n                \"django.template.context_processors.static\",\n                \"django.template.context_processors.media\",\n                \"django.template.context_processors.request\",\n                \"django.template.context_processors.tz\",\n                \"mezzanine.conf.context_processors.settings\",\n                \"mezzanine.pages.context_processors.page\",\n            ],\n            \"builtins\": [\n                \"mezzanine.template.loader_tags\",\n            ],\n        },\n    },\n]\n\nif DJANGO_VERSION < (1, 9):\n    del TEMPLATES[0][\"OPTIONS\"][\"builtins\"]\n\n\n################\n# APPLICATIONS #\n################\n\nINSTALLED_APPS = (\n    \"mytheme\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.redirects\",\n    \"django.contrib.sessions\",\n    \"django.contrib.sites\",\n    \"django.contrib.sitemaps\",\n    \"django.contrib.staticfiles\",\n    \"mezzanine.boot\",\n    \"mezzanine.conf\",\n    \"mezzanine.core\",\n    \"mezzanine.generic\",\n    \"mezzanine.pages\",\n    \"mezzanine.blog\",\n    \"mezzanine.forms\",\n    \"mezzanine.galleries\",\n    \"mezzanine.twitter\",\n    \"mezzanine.accounts\",\n    # \"mezzanine.mobile\",\n)\n\n# List of middleware classes to use. Order is important; in the request phase,\n# these middleware classes will be applied in the order given, and in the\n# response phase the middleware will be applied in reverse order.\nMIDDLEWARE_CLASSES = (\n    \"mezzanine.core.middleware.UpdateCacheMiddleware\",\n\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    # Uncomment if using internationalisation or localisation\n    # 'django.middleware.locale.LocaleMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n\n    \"mezzanine.core.request.CurrentRequestMiddleware\",\n    \"mezzanine.core.middleware.RedirectFallbackMiddleware\",\n    \"mezzanine.core.middleware.TemplateForDeviceMiddleware\",\n    \"mezzanine.core.middleware.TemplateForHostMiddleware\",\n    \"mezzanine.core.middleware.AdminLoginInterfaceSelectorMiddleware\",\n    \"mezzanine.core.middleware.SitePermissionMiddleware\",\n    # Uncomment the following if using any of the SSL settings:\n    # \"mezzanine.core.middleware.SSLRedirectMiddleware\",\n    \"mezzanine.pages.middleware.PageMiddleware\",\n    \"mezzanine.core.middleware.FetchFromCacheMiddleware\",\n)\n\n# Store these package names here as they may change in the future since\n# at the moment we are using custom forks of them.\nPACKAGE_NAME_FILEBROWSER = \"filebrowser_safe\"\nPACKAGE_NAME_GRAPPELLI = \"grappelli_safe\"\n\n#########################\n# OPTIONAL APPLICATIONS #\n#########################\n\n# These will be added to ``INSTALLED_APPS``, only if available.\nOPTIONAL_APPS = (\n    \"debug_toolbar\",\n    \"django_extensions\",\n    \"compressor\",\n    PACKAGE_NAME_FILEBROWSER,\n    PACKAGE_NAME_GRAPPELLI,\n)\n\n##################\n# LOCAL SETTINGS #\n##################\n\n# Allow any settings to be defined in local_settings.py which should be\n# ignored in your version control system allowing for settings to be\n# defined per machine.\n\n# Instead of doing \"from .local_settings import *\", we use exec so that\n# local_settings has full access to everything defined in this module.\n# Also force into sys.modules so it's visible to Django's autoreload.\n\nf = os.path.join(PROJECT_APP_PATH, \"local_settings.py\")\nif os.path.exists(f):\n    import sys\n    import imp\n    module_name = \"%s.local_settings\" % PROJECT_APP\n    module = imp.new_module(module_name)\n    module.__file__ = f\n    sys.modules[module_name] = module\n    exec(open(f, \"rb\").read())\n\n\n####################\n# DYNAMIC SETTINGS #\n####################\n\n# set_dynamic_settings() will rewrite globals based on what has been\n# defined so far, in order to provide some better defaults where\n# applicable. We also allow this settings module to be imported\n# without Mezzanine installed, as the case may be when using the\n# fabfile, where setting the dynamic settings below isn't strictly\n# required.\ntry:\n    from mezzanine.utils.conf import set_dynamic_settings\nexcept ImportError:\n    pass\nelse:\n    set_dynamic_settings(globals())\n",
+					"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/settings.py",
+					"file_size": 11833,
+					"file_write_time": 131152006984856986,
+					"settings":
+					{
+						"buffer_size": 11829,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/usr/bin/env python\nimport os\nimport sys\n\nif __name__ == \"__main__\":\n\n    sys.path.insert(0, os.path.join('.', 'apps'))\n    path1 = os.path.join('.', 'apps')\n    #print(os.path.abspath(path1))\n\n    from mezzanine.utils.conf import real_project_name\n\n    settings_module = \"%s.settings\" % real_project_name(\"myproject\")\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", settings_module)\n\n    from django.core.management import execute_from_command_line\n\n    execute_from_command_line(sys.argv)\n",
+					"file": "/D/wargamedev/project/st_work/server/st_work_server/manage.py",
+					"file_size": 497,
+					"file_write_time": 131151842698724773,
+					"settings":
+					{
+						"buffer_size": 497,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "from __future__ import unicode_literals\n\nfrom django.conf.urls import include, url\nfrom django.conf.urls.i18n import i18n_patterns\nfrom django.contrib import admin\nfrom django.views.i18n import set_language\n\nfrom mezzanine.core.views import direct_to_template\nfrom mezzanine.conf import settings\n\n\nadmin.autodiscover()\n\n# Add the urlpatterns for any custom Django applications here.\n# You can also change the ``home`` view to add your own functionality\n# to the project's homepage.\n\nurlpatterns = i18n_patterns(\n    # Change the admin prefix here to use an alternate URL for the\n    # admin interface, which would be marginally more secure.\n    url(\"^admin/\", include(admin.site.urls)),\n)\n\nif settings.USE_MODELTRANSLATION:\n    urlpatterns += [\n        url('^i18n/$', set_language, name='set_language'),\n    ]\n\nurlpatterns += [\n    # We don't want to presume how your homepage works, so here are a\n    # few patterns you can use to set it up.\n\n    # HOMEPAGE AS STATIC TEMPLATE\n    # ---------------------------\n    # This pattern simply loads the index.html template. It isn't\n    # commented out like the others, so it's the default. You only need\n    # one homepage pattern, so if you use a different one, comment this\n    # one out.\n\n    url(\"^$\", direct_to_template, {\"template\": \"index.html\"}, name=\"home\"),\n\n    # HOMEPAGE AS AN EDITABLE PAGE IN THE PAGE TREE\n    # ---------------------------------------------\n    # This pattern gives us a normal ``Page`` object, so that your\n    # homepage can be managed via the page tree in the admin. If you\n    # use this pattern, you'll need to create a page in the page tree,\n    # and specify its URL (in the Meta Data section) as \"/\", which\n    # is the value used below in the ``{\"slug\": \"/\"}`` part.\n    # Also note that the normal rule of adding a custom\n    # template per page with the template name using the page's slug\n    # doesn't apply here, since we can't have a template called\n    # \"/.html\" - so for this case, the template \"pages/index.html\"\n    # should be used if you want to customize the homepage's template.\n    # NOTE: Don't forget to import the view function too!\n\n    # url(\"^$\", mezzanine.pages.views.page, {\"slug\": \"/\"}, name=\"home\"),\n\n    # HOMEPAGE FOR A BLOG-ONLY SITE\n    # -----------------------------\n    # This pattern points the homepage to the blog post listing page,\n    # and is useful for sites that are primarily blogs. If you use this\n    # pattern, you'll also need to set BLOG_SLUG = \"\" in your\n    # ``settings.py`` module, and delete the blog page object from the\n    # page tree in the admin if it was installed.\n    # NOTE: Don't forget to import the view function too!\n\n    # url(\"^$\", mezzanine.blog.views.blog_post_list, name=\"home\"),\n\n    # MEZZANINE'S URLS\n    # ----------------\n    # ADD YOUR OWN URLPATTERNS *ABOVE* THE LINE BELOW.\n    # ``mezzanine.urls`` INCLUDES A *CATCH ALL* PATTERN\n    # FOR PAGES, SO URLPATTERNS ADDED BELOW ``mezzanine.urls``\n    # WILL NEVER BE MATCHED!\n\n    # If you'd like more granular control over the patterns in\n    # ``mezzanine.urls``, go right ahead and take the parts you want\n    # from it, and use them directly below instead of using\n    # ``mezzanine.urls``.\n    url(\"^\", include(\"mezzanine.urls\")),\n\n    # MOUNTING MEZZANINE UNDER A PREFIX\n    # ---------------------------------\n    # You can also mount all of Mezzanine's urlpatterns under a\n    # URL prefix if desired. When doing this, you need to define the\n    # ``SITE_PREFIX`` setting, which will contain the prefix. Eg:\n    # SITE_PREFIX = \"my/site/prefix\"\n    # For convenience, and to avoid repeating the prefix, use the\n    # commented out pattern below (commenting out the one above of course)\n    # which will make use of the ``SITE_PREFIX`` setting. Make sure to\n    # add the import ``from django.conf import settings`` to the top\n    # of this file as well.\n    # Note that for any of the various homepage patterns above, you'll\n    # need to use the ``SITE_PREFIX`` setting as well.\n\n    # (\"^%s/\" % settings.SITE_PREFIX, include(\"mezzanine.urls\"))\n\n]\n\n# Adds ``STATIC_URL`` to the context of error pages, so that error\n# pages can use JS, CSS and images.\nhandler404 = \"mezzanine.core.views.page_not_found\"\nhandler500 = \"mezzanine.core.views.server_error\"\n",
+					"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/urls.py",
+					"file_size": 4272,
+					"file_write_time": 131151837901620660,
+					"settings":
+					{
+						"buffer_size": 4272,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# This file is exec'd from settings.py, so it has access to and can\n# modify all the variables in settings.py.\n\n# If this file is changed in development, the development server will\n# have to be manually restarted because changes will not be noticed\n# immediately.\n\nDEBUG = True\n\n# Make these unique, and don't share it with anybody.\nSECRET_KEY = \"6ywos#&(+pkr8@gi9&u_mvaskhsv+0=2mxa+c-l6jt9e%%#p(r\"\nNEVERCACHE_KEY = \"0lxs2370x5ik(p_r@6cj@7pvz$uo1l8sauy$sd8z*tpe+!s@6)\"\n\nDATABASES = {\n    \"default\": {\n        # Ends with \"postgresql_psycopg2\", \"mysql\", \"sqlite3\" or \"oracle\".\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        # DB name or path to database file if using sqlite3.\n        \"NAME\": \"dev.db\",\n        # Not used with sqlite3.\n        \"USER\": \"\",\n        # Not used with sqlite3.\n        \"PASSWORD\": \"\",\n        # Set to empty string for localhost. Not used with sqlite3.\n        \"HOST\": \"\",\n        # Set to empty string for default. Not used with sqlite3.\n        \"PORT\": \"\",\n    }\n}\n\n###################\n# DEPLOY SETTINGS #\n###################\n\n# Domains for public site\n# ALLOWED_HOSTS = [\"\"]\n\n# These settings are used by the default fabfile.py provided.\n# Check fabfile.py for defaults.\n\n# FABRIC = {\n#     \"DEPLOY_TOOL\": \"rsync\",  # Deploy with \"git\", \"hg\", or \"rsync\"\n#     \"SSH_USER\": \"\",  # VPS SSH username\n#     \"HOSTS\": [\"\"],  # The IP address of your VPS\n#     \"DOMAINS\": ALLOWED_HOSTS,  # Edit domains in ALLOWED_HOSTS\n#     \"REQUIREMENTS_PATH\": \"requirements.txt\",  # Project's pip requirements\n#     \"LOCALE\": \"en_US.UTF-8\",  # Should end with \".UTF-8\"\n#     \"DB_PASS\": \"\",  # Live database password\n#     \"ADMIN_PASS\": \"\",  # Live admin user password\n#     \"SECRET_KEY\": SECRET_KEY,\n#     \"NEVERCACHE_KEY\": NEVERCACHE_KEY,\n# }\n",
+					"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/local_settings.py",
+					"file_size": 1763,
+					"file_write_time": 131151837901610660,
+					"settings":
+					{
+						"buffer_size": 1763,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "p",
+				"selected_items":
+				[
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"packages",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 209.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/wargamedev/project/st_work/server/st_work_server"
+			],
+			"file_history":
+			[
+				"/D/wargamedev/project/st_work/server/st_work_server/manage.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+				"/D/wargamedev/project/web_st/server/st_work_server/myproject/settings.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/D/wargamedev/project/web_st/server/chatroom_flask/app/static/js/client.txt",
+				"/D/BaiduYunDownload/chat_room_flask2/chat_room_flask2/app/static/js/client.js",
+				"/D/wargamedev/project/helicopter/MAP_EDT_XLS/Map_sqlite.py",
+				"/D/wargamedev/project/helicopter/ff_server/game.py",
+				"/D/wargamedev/project/helicopter/WarGame_Rule/wargame_rule/__init__.py",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/style.css",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/client.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/main/routes.py",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/my_recorder.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/my_recordmp3.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/templates/index_django.html",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/static/js/userlist.js",
+				"/D/wargamedoc/project/web_st/server/chatroom_flask/app/main/events.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/client_get.js",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/templates/test.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/templates/index.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/routes.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/chat.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/__init__.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/events.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/sdaf.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/client.js",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/templates/index_django.html",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/__init__.py",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/views.py",
+				"/D/wargamedoc/project/web_st/server/myproject/apps/chat_flask/urls.py",
+				"/D/wargamedoc/project/web_st/server/myproject/myproject/urls.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/Python.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/Python.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/D/wargamedoc/project/web_st/server/myproject/cmd.txt",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/Administrator/scr/asd.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/main/forms.py",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/socketio/socket.io-client/History.md",
+				"/D/wargamedoc/project/web_st/server/chat_room_flask2/app/static/js/socketio/socket.io/Readme.md"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stringify",
+					"msgObj",
+					"CHAT",
+					",\n",
+					"		\n",
+					"io",
+					"socket",
+					"init",
+					"username",
+					"create_test_game",
+					"reload",
+					"webkitURL",
+					"URL",
+					"webk",
+					"web"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\wargamedev\\project\\st_work\\server\\st_work_server"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11829,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4792,
+										4792
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										224,
+										8,
+										9,
+										10,
+										36,
+										30,
+										2,
+										117,
+										42,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3192.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/wargamedev/project/st_work/server/st_work_server/manage.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 497,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										497,
+										497
+									]
+								],
+								"settings":
+								{
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										224,
+										8,
+										9,
+										10,
+										36,
+										30,
+										2,
+										31,
+										56,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4272,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										322,
+										322
+									]
+								],
+								"settings":
+								{
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										224,
+										8,
+										9,
+										10,
+										36,
+										30,
+										2,
+										121,
+										17,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 252.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/wargamedev/project/st_work/server/st_work_server/myproject/local_settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1763,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										470,
+										470
+									]
+								],
+								"settings":
+								{
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										224,
+										8,
+										9,
+										10,
+										36,
+										30,
+										2,
+										117,
+										42,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1008.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,647,54,180,1095",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
